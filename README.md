@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <a href="https://github.com/Mohamed-Tarrad"><img align="center" src="https://github-readme-stats.vercel.app/api?username=
-mohamedhekmay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="
-mohamedhekmay github stats" /></a> 
+ <a href="https://github.com/Mohamed-Tarrad"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhekmay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohamed-Magdy Tarrad github stats" /></a> 
